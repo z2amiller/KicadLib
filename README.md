@@ -1,0 +1,2 @@
+# KicadLib
+Shared kicad libraries
